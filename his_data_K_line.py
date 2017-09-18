@@ -12,9 +12,9 @@ def send_requset():
     headers = {
         "Host":"trade.api.lwork.com",
         "content-type":"application/json",
-        "x-api-tenantid": "T900002",
-        "x-api-token": "BpUPBvRl4e3wiIOU",
-        "x-api-serverid":'73',
+        "x-api-tenantid": "*****",
+        "x-api-token": "****",
+        "x-api-serverid":'****',
     }
 
     params = {
